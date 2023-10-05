@@ -1,3 +1,8 @@
+2 + 2 = 5;
+
+a = "1" + 1;
+
+
 My Mother Told Me
 My mother told me,
 myself I would buy
